@@ -9,13 +9,15 @@ header {
 }
 h1 {
     font-size: 2rem;
-    font
+    font-family: 'Raleway', sans-serif;
 }
 h2 {
     font-size: 1.5 rem;
+    font-family: 'Raleway', sans-serif;
 }
 h3 {
     font-size: 1.25 rem;
+    font-family: 'Raleway', sans-serif;
 }
 .circle {
     border-radius: 50%;
