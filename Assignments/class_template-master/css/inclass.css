@@ -1,5 +1,9 @@
 :root {
     --primary-color: #033f5f;
+    --secondary-color: #007cbc;
+    --neutral-grey: #747e83;
+    --neutral-light: #ffffff;
+    --highlight-color: #f5ba36; 
 }
 
 *{
@@ -8,19 +12,23 @@
 }
 body {
     margin: 0;
-    background-color: var(--primary-color);
+    
 }
 h1 {
     font-size: 2.5rem;
+    color:var(--neutral-light)
 }
 h2 {
     font-size: 2rem;
+    color: var(--primary-color);
 
 }
-h2 {
+h3 {
     font-size: 1.5rem;
+    color: var(--primary-color);
 }
 p {
     font-size: 1.25rem;
     line-height: 1.75rem;
+    color: var(--neutral-grey);
 }
