@@ -45,3 +45,13 @@ p, ul, ol {
 .container > * {
     grid-column: span 12;
 }
+
+/* Desktop Layout */
+.site-id {
+    grid-column: 1 /span 6;
+    background-color: #033f5f;
+}
+.menu {
+    grid-column: 7 /span 6;
+    background-color: #00bca3;
+}
