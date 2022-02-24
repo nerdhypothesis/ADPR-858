@@ -47,19 +47,22 @@ p, ul, ol {
 }
 
 /* Desktop Layout */
-.site-id {
-    grid-column: 1 /span 6;
-    background-color: #033f5f;
-}
-.menu {
-    grid-column: 7 /span 6;
-    background-color: #00bca3;
-}
-.company {
-    grid-column: 1 /span 8;
-    background-color: purple;
-}
-.company-image {
-    grid-column: 9 /span 4;
-    background-color: yellow;
+@media screen and (min-width: 40rem) {
+    
+    .site-id {
+        grid-column: 1 /span 6;
+        background-color: #033f5f;
+    }
+    .menu {
+        grid-column: 7 /span 6;
+        background-color: #00bca3;
+    }
+    .company {
+        grid-column: 1 /span 8;
+        background-color: purple;
+    }
+    .company-image {
+        grid-column: 9 /span 4;
+        background-color: yellow;
+    }
 }
