@@ -32,6 +32,9 @@ p, ul, ol {
     line-height: 1.75rem;
     color: var(--neutral-grey);
 }
+img {
+    max-height: 100%;
+}
 
 /******** Layout ********/
 .container {
