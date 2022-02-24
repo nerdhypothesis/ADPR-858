@@ -37,4 +37,8 @@ p, ul, ol {
 .container {
     background-color: red;
     width: min(95%, 75rem);
+    margin: 0 auto;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(12, 1fr);
 }
