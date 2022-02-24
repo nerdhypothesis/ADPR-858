@@ -33,7 +33,7 @@ p, ul, ol {
     color: var(--neutral-grey);
 }
 img {
-    max-height: 100%;
+    max-width: 100%;
 }
 
 /******** Layout ********/
