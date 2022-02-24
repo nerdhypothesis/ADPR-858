@@ -42,3 +42,6 @@ p, ul, ol {
     gap: 1.5rem;
     grid-template-columns: repeat(12, 1fr);
 }
+.container > * {
+    grid-column: span 12;
+}
