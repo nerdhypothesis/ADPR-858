@@ -32,3 +32,9 @@ p, ul, ol {
     line-height: 1.75rem;
     color: var(--neutral-grey);
 }
+
+/******** Layout ********/
+.container {
+    background-color: red;
+    width: min(95%, 75rem);
+}
