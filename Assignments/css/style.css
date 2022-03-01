@@ -1,13 +1,14 @@
+*{
+    box box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
 body {
-margin: 0 25%;
-font-family: 'Raleway', sans-serif;
-font-family: 'Roboto', sans-serif;
-font-family: 'Ubuntu', sans-serif;
-background-image: url("../images/moroccan-flower-bg.png");
+    margin: 0 10%;
+    background-image: url("../images/moroccan-flower-bg.png");
 }
-.container {
-    background-color: white;
-}
+
 header {
     background-color: #9abcf8;
     color: white;
@@ -29,3 +30,22 @@ h3 {
     border-radius: 50%;
     border: 5px solid #9abcf8;
 }
+/******* Layout *******/
+.container {
+    background-color: white;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(12, 1fr);
+}
+.container > * {
+    grid-column: span 12;
+}
+/******* Desktop Layout *******/
+@media screen and (min-width: 40rem) {
+    .col-span-8 {
+        grid-column: span 8;
+    }
+    .col-span-4 {
+        grid-column: span 4;
+}
+
