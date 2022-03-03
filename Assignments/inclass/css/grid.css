@@ -64,7 +64,7 @@ img {
         grid-column: 1 /span 8;
         background-color: purple;
     }
-    .company-image {
+    .menu {
         grid-column: 9 /span 4;
         background-color: yellow;
     }
