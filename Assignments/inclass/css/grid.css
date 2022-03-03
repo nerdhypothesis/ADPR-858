@@ -16,7 +16,7 @@ body {
 }
 h1 {
     font-size: 2.5rem;
-    color:var(--secondary-color)
+    color:var(--neutral-light)
 }
 h2 {
     font-size: 2rem;
