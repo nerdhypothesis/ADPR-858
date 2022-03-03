@@ -12,6 +12,7 @@
 }
 body {
     margin: 0;
+    background-color: green;
     
 }
 h1 {
@@ -38,7 +39,6 @@ img {
 
 /******** Layout ********/
 .container {
-    background-color: green;
     width: min(95%, 75rem);
     margin: 0 auto;
     display: grid;
@@ -67,7 +67,4 @@ img {
         grid-column: 10 /span 4;
     }
 
-}
-.container2 {
-    background-color: green;
 }
