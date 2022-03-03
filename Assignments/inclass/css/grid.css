@@ -68,10 +68,10 @@ img {
         grid-column: 1 /span 2;
     }
     .col-span-8 {
-        grid-column: 3 /span 6;
+        grid-column: 6 /span 6;
     }
     .col-span-4 {
-        grid-column: 9 /span 4;
+        grid-column: 10 /span 4;
     }
 
 }
