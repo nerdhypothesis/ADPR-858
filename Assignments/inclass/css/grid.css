@@ -38,7 +38,7 @@ img {
 
 /******** Layout ********/
 .container {
-    background-color: white;
+    background-color: green;
     width: min(95%, 75rem);
     margin: 0 auto;
     display: grid;
