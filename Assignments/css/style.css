@@ -60,11 +60,13 @@ a:hover {
 }
 /********** Navigation Using Flexbox **********/
 nav {
-    background-color: darkolivegreen;
+    background-color: grey;
     padding: 0 1rem;
     display: flex;
     justify-content: center;
-    
+    position: sticky;
+    top: 0;
+
 }
 
 /******* Components *******/
