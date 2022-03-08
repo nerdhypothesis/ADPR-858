@@ -58,6 +58,14 @@ a:hover {
     .col-span-4 {
         grid-column: span 4;
 }
+/********** Navigation Using Flexbox **********/
+nav {
+    background-color: darkolivegreen;
+    padding: 0 1rem;
+    display: flex;
+    justify-content: center;
+    
+}
 
 /******* Components *******/
 .button:link, .button:visited {
