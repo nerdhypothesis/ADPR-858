@@ -66,5 +66,7 @@ img {
     .col-span-4 {
         grid-column: 11 /span 2;
     }
+    .col-span-6 {
+        grid-column: 17 /span 6;
 
 }
