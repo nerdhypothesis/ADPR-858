@@ -58,6 +58,11 @@ img {
 .container-lg > * {
     grid-column: span 12;
 }
+.portfolio {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(5, 1fr);
+}
 .primary-color {
     background-color: var(--primary-color)
 }
