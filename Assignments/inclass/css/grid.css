@@ -68,7 +68,9 @@ img {
     }
     .col-span-1 {
         grid-column: 1 /span 6;
+        align-items: center;
 }
 .col-span-2 {
     grid-column: 7 /span 6;
+    align-items: center;
 }
