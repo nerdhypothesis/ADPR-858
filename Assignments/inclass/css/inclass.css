@@ -48,6 +48,17 @@ img {
 .container > * {
     grid-column: span 12;
 }
+.container-lg {
+    background-color: blue;
+    width: min(100%, 100rem);
+    margin: 0 auto;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(12, 1fr);
+}
+.container-lg > * {
+    grid-column: span 12;
+}
 
 /* Desktop Layout */
 @media screen and (min-width: 40rem) {
