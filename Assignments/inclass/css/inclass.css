@@ -59,7 +59,12 @@ img {
 .container-lg > * {
     grid-column: span 12;
 }
-
+.primary-color: {
+    background-color: var(--primary-color)
+}
+.highlight-color{
+    background-color: var(--highlight-color);
+}
 /* Desktop Layout */
 @media screen and (min-width: 40rem) {
     
