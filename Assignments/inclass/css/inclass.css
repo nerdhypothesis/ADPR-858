@@ -69,6 +69,7 @@ img {
 }
 .highlight-color {
     background-color: var(--highlight-color);
+    padding-bottom: 5rem;
 }
 .text-center {
     text-align: center;
