@@ -61,7 +61,7 @@ img {
 .portfolio {
     display: grid;
     gap: 1.5rem;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(2, 1fr);
 }
 .primary-color {
     background-color: var(--primary-color)
@@ -87,5 +87,10 @@ img {
     .company-image {
         grid-column: 9 /span 4;
         
+    }
+    .portfolio {
+        display: grid;
+        gap: 1.5rem;
+        grid-template-columns: repeat(5, 1fr);
     }
 }
