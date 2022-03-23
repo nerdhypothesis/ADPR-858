@@ -53,13 +53,7 @@ a:hover {
 .container > * {
     grid-column: span 12;
 }
-/******* Desktop Layout *******/
-@media screen and (min-width: 40rem) {
-    .col-span-8 {
-        grid-column: span 8;
-    }
-    .col-span-4 {
-        grid-column: span 4;
+
 }
 /********** Navigation Using Flexbox **********/
 nav {
@@ -110,3 +104,23 @@ nav a:hover {
 .button:hover {
     background-color: #2f61b8;
 }
+
+.card {
+    text-align: center;
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
+}
+.card-title {
+    margin: 0.75rem 0 0 0;
+    padding: 0 2rem 0.5rem;
+}
+
+
+/******* Desktop Layout *******/
+@media screen and (min-width: 40rem) {
+    .col-span-8 {
+        grid-column: span 8;
+    }
+    .col-span-4 {
+        grid-column: span 4;
