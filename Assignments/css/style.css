@@ -126,6 +126,7 @@ nav a:hover {
     }
     .col-span-4 {
         grid-column: span 4;
+    }
     .work-section {
         display: flex;
         justify-content: center;
