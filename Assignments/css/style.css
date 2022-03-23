@@ -132,7 +132,7 @@ nav a:hover {
         flex-flow: row wrap;
     }
     .card {
-        max-width: 27.5%;
+        flex-basis: 27.5%;
     }
 
 }
