@@ -54,7 +54,6 @@ a:hover {
     grid-column: span 12;
 }
 
-}
 /********** Navigation Using Flexbox **********/
 nav {
     background-color: grey;
@@ -127,3 +126,14 @@ nav a:hover {
     }
     .col-span-4 {
         grid-column: span 4;
+    .work-section {
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    .card {
+        max-width: 27.5%;
+    }
+
+}
+    
