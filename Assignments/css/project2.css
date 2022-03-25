@@ -10,8 +10,8 @@ body {
 }
 
 header {
-    background-color: #9abcf8;
-    color: white;
+    background-color: white;
+    color: grey;
     padding: 2rem;
 }
 h1 {
@@ -28,10 +28,7 @@ h3 {
 }
 img {
     max-width: 100%;
-}
-.circle {
-    border-radius: 50%;
-    border: 5px solid #9abcf8;
+
 }
 a:link, a:visited {
     color: #9abcf8;
