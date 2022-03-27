@@ -52,7 +52,7 @@ nav {
     background-color: grey;
     padding: 0 1rem;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     position: sticky;
     top: 0;
 
