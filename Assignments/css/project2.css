@@ -54,6 +54,10 @@ a:hover {
     justify-content: center;
     text-align: center;  
 }
+
+.container3 {
+    background-color: #1AADAD;
+}
 /********** Navigation Using Flexbox **********/
 nav {
     background-color: grey;
