@@ -53,13 +53,15 @@ a:hover {
     background-color: #F5F8FA;
     justify-content: center;
     text-align: center;  
+    margin-top: 1 rem;
 }
 
 .container3 {
     background-color: #1AADAD;
     color: white;
     justify-content: center;
-    text-align: center;  
+    text-align: center;
+    margin-top: 1rem;  
 }
 /********** Navigation Using Flexbox **********/
 nav {
