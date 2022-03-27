@@ -121,6 +121,7 @@ nav a:hover {
 }
 .container3 {
     text-align: center;  
+    background-color: #F5F8FA;
 }
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
