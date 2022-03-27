@@ -90,7 +90,8 @@ nav a:hover {
 /******* Components *******/
 .button:link, .button:visited {
     color: white;
-    background-color: orange;
+    background-color: #FF7A59;
+    align-content: center;
     text-align: center;
     text-decoration: none;
     padding: 1rem 1.75rem;
@@ -101,7 +102,7 @@ nav a:hover {
     transition: background-color 0.5s ease;
 }
 .button:hover {
-    background-color: #2f61b8;
+    background-color: #F8F3F2;
 }
 
 .card {
