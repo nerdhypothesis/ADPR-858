@@ -49,6 +49,7 @@ a:hover {
 
 .container2 {
     background-color: #F5F8FA;
+    justify-content: center;
 }
 
 /********** Navigation Using Flexbox **********/
