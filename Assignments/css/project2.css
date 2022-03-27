@@ -47,6 +47,10 @@ a:hover {
     grid-column: span 12;
 }
 
+.container2 {
+    background-color: grey;
+}
+
 /********** Navigation Using Flexbox **********/
 nav {
     background-color: grey;
