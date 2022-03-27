@@ -120,11 +120,7 @@ nav a:hover {
     padding: 0 2rem 0.5rem;
 }
 .container3 {
-    text-align: center;
-    margin: 1rem;
-    padding-bottom: 2rem;
-    box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
-    background-color: white;
+    text-align: center;  
 }
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
