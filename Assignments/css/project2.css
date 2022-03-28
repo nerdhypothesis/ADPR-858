@@ -225,8 +225,12 @@ nav a:hover {
     .navclass2 {
         grid-column: span 6;
         padding-top: 2rem;
-    
     }
+    .navclassbutton {
+        grid-column: span 3;
+        padding-top: 2rem;
+    }
+
     .card {
         flex-basis: 27.5%;
     }
