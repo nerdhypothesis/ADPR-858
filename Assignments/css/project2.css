@@ -176,6 +176,9 @@ nav a:hover {
         text-indent: 2rem;   
         text-size-adjust: 2rem;  
         font-size: .75rem;
+        h5 {
+            font-size: 2rem;
+        }
     }
 
     .card {
