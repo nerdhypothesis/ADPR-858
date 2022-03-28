@@ -224,6 +224,7 @@ nav a:hover {
     }
     .navclass2 {
         grid-column: span 6;
+        padding-top: 2rem;
     
     }
     .card {
