@@ -140,6 +140,12 @@ nav a:hover {
     .col-span-6 {
         grid-column: span 6;
     }
+    .col-span-10 {
+        grid-column: span 10;
+    }
+    .col-span-2 {
+        grid-column: span 2;
+    }
     .work-section {
         display: flex;
         justify-content: center;
