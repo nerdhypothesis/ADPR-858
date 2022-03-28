@@ -175,7 +175,7 @@ nav a:hover {
     padding: 0 2rem 0.5rem;
 }
 .vl {
-    border-left: 1px solid;
+    border-left: 1px solid gray;
     height: 500px;
     position: absolute;
     left: 25%;
