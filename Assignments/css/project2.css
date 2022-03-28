@@ -175,7 +175,7 @@ nav a:hover {
         flex-flow: row wrap;   
         text-indent: 2rem;   
         text-size-adjust: 2rem;  
-        font-size: 1rem;
+        font-size: .25rem;
     }
 
     .card {
