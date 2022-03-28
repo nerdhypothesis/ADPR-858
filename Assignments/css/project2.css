@@ -166,6 +166,7 @@ nav a:hover {
         display: flex;
         justify-content: center;
         flex-flow: row wrap;
+        flex-basis: 2rem;
         
     }
     .card {
