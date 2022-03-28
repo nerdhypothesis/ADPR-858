@@ -66,7 +66,7 @@ a:hover {
 .container4 {
     justify-content: center;
     text-align: center;  
-    color: #2D3E50;
+    background-color: #2D3E50;
 }
 /********** Navigation Using Flexbox **********/
 nav {
