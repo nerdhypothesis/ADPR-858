@@ -154,11 +154,8 @@ nav a:hover {
     background-color: #F8F3F2;
 }
 .navbutton {
-    grid-column: span 3;
-    padding-top: 2rem;
-    display: flex;
-    justify-content: flex-end;
     grid-column: span 2;
+    padding-top: 2rem;
 
 }
 
