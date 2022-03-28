@@ -203,6 +203,15 @@ nav a:hover {
         text-size-adjust: 2rem;  
         font-size: .75rem;
     }
+    .work-section4 {
+        display: flex;
+        justify-content: right;
+        flex-flow: row wrap;   
+        text-indent: 2rem;   
+        text-size-adjust: 2rem;  
+        font-size: .5rem;
+        color: grey;
+    }
 
     .card {
         flex-basis: 27.5%;
