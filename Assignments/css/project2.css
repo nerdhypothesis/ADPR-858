@@ -180,6 +180,10 @@ nav a:hover {
     margin-left: -3px;
     top: 0;
 }
+.bullet {
+    justify-content: left;
+    text-align: left;
+}
 
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
