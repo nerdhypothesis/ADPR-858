@@ -188,7 +188,8 @@ nav a:hover {
 .cardimage {
     display: inline-block;
     margin-left: .5rem;
-    size-adjust: 1.5rem;
+    width: 1.5rem;
+    height: 1.5rem;
 }
 
 /******* Desktop Layout *******/
