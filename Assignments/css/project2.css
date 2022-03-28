@@ -221,7 +221,6 @@ nav a:hover {
     .navclass {
         background-color: white;
         padding-bottom: 0;
-
     }
     .navclass2 {
         grid-column: span 8;
@@ -230,6 +229,7 @@ nav a:hover {
     .navclassbutton {
         grid-column: span 2;
         padding-top: 2rem;
+        justify-content: right;
     }
     .headerclass {
         grid-column: span 4;
