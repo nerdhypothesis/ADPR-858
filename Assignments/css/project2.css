@@ -98,6 +98,7 @@ nav ul {
     display: flex;
     flex-flow: row wrap;
     color: grey;
+    grid-column: span 6;
 }
 nav li {
     margin: 0 0.5rem;
