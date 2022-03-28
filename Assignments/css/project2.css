@@ -217,6 +217,12 @@ nav a:hover {
         justify-content: center;
         background-color: #F5F8FA;
     }
+    .navclass {
+        grid-column: span 6;
+        position:fixed;
+        top:0;
+        background-color: #F5F8FA;
+    }
     .card {
         flex-basis: 27.5%;
     }
