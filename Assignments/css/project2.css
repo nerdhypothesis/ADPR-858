@@ -229,8 +229,7 @@ nav a:hover {
     .navclassbutton {
         grid-column: span 3;
         padding-top: 2rem;
-        display: flex;
-        justify-content: flex-end;
+    
     }
 
     .card {
