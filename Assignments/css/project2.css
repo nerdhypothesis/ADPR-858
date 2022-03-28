@@ -218,7 +218,6 @@ nav a:hover {
         background-color: #F5F8FA;
     }
     .navclass {
-        grid-column: span 6;
         position:fixed;
         top:0;
         background-color: #F5F8FA;
