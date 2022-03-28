@@ -207,9 +207,9 @@ nav a:hover {
         display: flex;
         justify-content: right;
         flex-flow: row wrap;   
-        text-indent: 2rem;   
-        text-size-adjust: 2rem;  
-        font-size: 1.5rem;
+        text-indent: 5rem;   
+        text-size-adjust: 5rem;  
+        font-size: .5rem;
         color: grey;
     }
 
