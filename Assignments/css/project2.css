@@ -165,10 +165,11 @@ nav a:hover {
     .work-section2 {
         display: flex;
         justify-content: center;
-        flex-flow: row wrap;
-        flex-basis: 2rem;
-        
+        flex-flow: row wrap;   
+        text-indent: 2rem;   
+        text-size-adjust: 5rem;  
     }
+
     .card {
         flex-basis: 27.5%;
     }
