@@ -174,7 +174,14 @@ nav a:hover {
     margin: 0.5rem 0 1rem 0;
     padding: 0 2rem 0.5rem;
 }
-
+.vl {
+    border-left: 1px solid;
+    height: 500px;
+    position: absolute;
+    left: 25%;
+    margin-left: -3px;
+    top: 0;
+}
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
     .col-span-8 {
