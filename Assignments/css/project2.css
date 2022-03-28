@@ -224,12 +224,16 @@ nav a:hover {
 
     }
     .navclass2 {
-        grid-column: span 6;
+        grid-column: span 8;
         padding-top: 2rem;
     }
     .navclassbutton {
-        grid-column: span 3;
+        grid-column: span 2;
         padding-top: 2rem;
+    }
+    .headerclass {
+        grid-column: span 4;
+        justify-content: left;
     }
 
     .card {
