@@ -205,16 +205,12 @@ nav a:hover {
     }
     .work-section4 {
         display: flex;
-        justify-content: right;
+        justify-content: flex-end;
         flex-flow: row wrap;   
         text-indent: 2.5rem;   
         text-size-adjust: 2.5rem;  
         font-size: .75rem;
         color: grey;
-    }
-    .work-section5 {
-        grid-column: span 8;
-        justify-content: left;
     }
 
     .card {
