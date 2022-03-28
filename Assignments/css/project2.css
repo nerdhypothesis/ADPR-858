@@ -10,6 +10,7 @@ header {
     color: grey;
     padding: 0;
     justify-content: left;
+    grid-column: span 3;
 }
 h1 {
     font-size: 2rem;
@@ -78,12 +79,14 @@ a:hover {
 
 /********** Navigation Using Flexbox **********/
 nav {
-    padding: 0 1rem;
+    padding: 0;
     display: flex;
     justify-content: left;
     position: sticky;
     top: 0;
     color: grey;
+    background-color: white;
+    grid-column: span 12;
 
 }
 nav ul {
@@ -97,6 +100,8 @@ nav ul {
 nav li {
     margin: 0 0.5rem;
     color: grey;
+    grid-column: span 6;
+    padding-top: 2rem;
 }
 nav a:link, nav a:visited {
     color: grey;
@@ -218,22 +223,11 @@ nav a:hover {
         justify-content: center;
         background-color: #F5F8FA;
     }
-    .navclass {
-        background-color: white;
-        grid-column: span 12;
-    }
-    .navclass2 {
-        grid-column: span 6;
-        padding-top: 2rem;
-    }
+
     .navclassbutton {
         grid-column: span 3;
         padding-top: 2rem;
         justify-content: right;
-    }
-    .headerclass {
-        grid-column: span 3;
-        justify-content: left;
     }
 
     .card {
