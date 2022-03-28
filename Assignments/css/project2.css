@@ -151,6 +151,8 @@ nav a:hover {
     display: inline-block;
     margin: 0 .25rem .25rem 0;
     transition: background-color 0.5s ease;
+    grid-column: span 3;
+
 }
 .button1:hover {
     background-color: #F8F3F2;
@@ -226,11 +228,6 @@ nav a:hover {
         display: flex;
         justify-content: center;
         background-color: #F5F8FA;
-    }
-    .navclassbutton {
-        grid-column: span 3;
-        padding-top: 2rem;
-    
     }
 
     .card {
