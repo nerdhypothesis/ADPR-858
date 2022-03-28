@@ -209,7 +209,7 @@ nav a:hover {
         flex-flow: row wrap;   
         text-indent: 5rem;   
         text-size-adjust: 5rem;  
-        font-size: .5rem;
+        font-size: .75rem;
         color: grey;
     }
 
