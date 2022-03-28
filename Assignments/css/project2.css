@@ -71,11 +71,11 @@ a:hover {
     padding: 1rem;
 }
 .col-span-8a {
-    grid-column: span 4;
+    grid-column: span 8;
     color: grey;
 }
 .col-span-8b {
-    grid-column: span 8;
+    grid-column: span 4;
     color: grey;
     justify-content: right;
 }
