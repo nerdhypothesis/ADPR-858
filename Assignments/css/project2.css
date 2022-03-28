@@ -111,9 +111,10 @@ nav a:hover {
 .col-span-8b {
     grid-column: span 8;
     color: grey;
-    text-align: right;
+    justify-content: right;
     font-size: .25rem;
 }
+
 /******* Components *******/
 .button:link, .button:visited {
     color: white;
