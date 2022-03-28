@@ -78,6 +78,7 @@ a:hover {
     grid-column: span 8;
     color: grey;
     align-content: right;
+    font-size: .5rem;
 }
 /********** Navigation Using Flexbox **********/
 nav {
