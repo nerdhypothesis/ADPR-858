@@ -75,7 +75,7 @@ a:hover {
     color: grey;
 }
 .col-span-8b {
-    grid-column: span 4;
+    grid-column: span 8;
     color: grey;
     justify-content: right;
 }
