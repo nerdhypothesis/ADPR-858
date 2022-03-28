@@ -155,7 +155,6 @@ nav a:hover {
     }
     .col-span-2 {
         grid-column: span 2;
-        max-width: 50%;
     }
     .work-section {
         display: flex;
