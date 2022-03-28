@@ -104,6 +104,7 @@ nav li {
     color: grey;
     grid-column: span 6;
     padding-top: 2rem;
+    display: flex;
 }
 nav a:link, nav a:visited {
     color: grey;
@@ -225,11 +226,11 @@ nav a:hover {
         justify-content: center;
         background-color: #F5F8FA;
     }
-
     .navclassbutton {
         grid-column: span 3;
         padding-top: 2rem;
-        justify-content: flex-end
+        display: flex;
+        justify-content: flex-end;
     }
 
     .card {
