@@ -215,6 +215,7 @@ nav a:hover {
     .work-section5 {
         display: flex;
         justify-content: center;
+        background-color: #F5F8FA;
     }
     .card {
         flex-basis: 27.5%;
