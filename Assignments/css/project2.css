@@ -219,25 +219,17 @@ nav a:hover {
         background-color: #F5F8FA;
     }
     .navclass {
-        display: flex;
         background-color: white;
-        padding-bottom: 0;
     }
     .navclass2 {
-        display: flex;
-        justify-content: center;
         grid-column: span 6;
         padding-top: 2rem;
     }
     .navclassbutton {
-        display: flex;
-        justify-content: flex-end;
         grid-column: span 3;
         padding-top: 2rem;
     }
     .headerclass {
-        display: flex;
-        justify-content: flex-start;
         grid-column: span 3;
         justify-content: left;
     }
