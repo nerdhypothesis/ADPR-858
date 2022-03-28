@@ -221,6 +221,9 @@ nav a:hover {
         position:fixed;
         top:0;
         background-color: #F5F8FA;
+        right: 0;
+        width: 8em;
+        margin-top: -2.5em;  
     }
     .card {
         flex-basis: 27.5%;
