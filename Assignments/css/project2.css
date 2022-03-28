@@ -218,8 +218,8 @@ nav a:hover {
         background-color: #F5F8FA;
     }
     .navclass {
-        position:fixed;
-        
+        background-color: white
+    } 
     }
     .card {
         flex-basis: 27.5%;
