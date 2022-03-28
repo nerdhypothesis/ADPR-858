@@ -219,8 +219,12 @@ nav a:hover {
     }
     .navclass {
         background-color: white;
-        padding-bottom: 2rem;
+        padding-bottom: 0;
         box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
+    }
+    .navclass2 {
+        grid-column: span 6;
+    
     }
     .card {
         flex-basis: 27.5%;
