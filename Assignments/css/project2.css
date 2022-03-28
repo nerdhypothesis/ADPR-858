@@ -74,12 +74,7 @@ a:hover {
     grid-column: span 8;
     color: grey;
 }
-.col-span-8b {
-    grid-column: span 8;
-    color: grey;
-    text-align: right;
-    font-size: .25rem;
-}
+
 /********** Navigation Using Flexbox **********/
 nav {
     padding: 0 1rem;
@@ -113,7 +108,12 @@ nav a:hover {
     color: grey;
     transition: ease-in-out 250ms;
 }
-
+.col-span-8b {
+    grid-column: span 8;
+    color: grey;
+    text-align: right;
+    font-size: .25rem;
+}
 /******* Components *******/
 .button:link, .button:visited {
     color: white;
