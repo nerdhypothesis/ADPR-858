@@ -212,7 +212,10 @@ nav a:hover {
         font-size: .75rem;
         color: grey;
     }
-
+    .work-section5 {
+        display: flex;
+        justify-content: center;
+    }
     .card {
         flex-basis: 27.5%;
     }
