@@ -74,6 +74,11 @@ a:hover {
     grid-column: span 8;
     color: grey;
 }
+.col-span-8a {
+    grid-column: span 8;
+    color: grey;
+    justify-content: right;
+}
 /********** Navigation Using Flexbox **********/
 nav {
     padding: 0 1rem;
