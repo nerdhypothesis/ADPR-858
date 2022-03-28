@@ -78,6 +78,9 @@ a:hover {
 }
 .work1 {
     justify-content: center;
+    text-align: center;
+    padding: 0 2.5rem 0 2.5rem;
+    margin: 0 2.5rem 0 2.5rem;
 }
 .bg {
     background-color: #F5F8FA;
