@@ -70,6 +70,10 @@ a:hover {
     color: white;
     padding: 1rem;
 }
+.col-span-8a {
+    grid-column: span 8;
+    color: grey;
+}
 /********** Navigation Using Flexbox **********/
 nav {
     padding: 0 1rem;
