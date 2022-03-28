@@ -145,7 +145,7 @@ nav a:hover {
     background-color: #FF7A59;
     text-align: right;
     text-decoration: none;
-    padding: 1rem 1.75rem;
+    padding: 2rem;
     border-radius: .5rem;
     box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
     display: inline-block;
