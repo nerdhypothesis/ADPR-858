@@ -145,18 +145,21 @@ nav a:hover {
     background-color: #FF7A59;
     text-align: right;
     text-decoration: none;
-    padding-top: 1rem;
     border-radius: .5rem;
     box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
     display: flex;
     justify-content: flex-end;
     margin: 0 .25rem .25rem 0;
     transition: background-color 0.5s ease;
-    grid-column: span 3;
 
 }
 .button1:hover {
     background-color: #F8F3F2;
+}
+.navbutton {
+    grid-column: span 3;
+    padding-top: 1rem;
+
 }
 
 .card {
