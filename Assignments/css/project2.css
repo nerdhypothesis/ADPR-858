@@ -86,9 +86,11 @@ nav ul {
     list-style: none;
     display: flex;
     flex-flow: row wrap;
+    color: white;
 }
 nav li {
     margin: 0 0.5rem;
+    color: white;
 }
 nav a:link, nav a:visited {
     color: white;
@@ -98,7 +100,6 @@ nav a:link, nav a:visited {
     display: block;
 }
 nav a:hover {
-    background-color: #9abcf8;
     color: white;
     transition: ease-in-out 250ms;
 }
