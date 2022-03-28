@@ -9,6 +9,7 @@ header {
     background-color: white;
     color: grey;
     padding: 0;
+    justify-content: left;
 }
 h1 {
     font-size: 2rem;
