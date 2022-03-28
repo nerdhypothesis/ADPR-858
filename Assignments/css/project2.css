@@ -212,6 +212,10 @@ nav a:hover {
         font-size: .75rem;
         color: grey;
     }
+    .work-section5 {
+        grid-column: span 8;
+        justify-content: left;
+    }
 
     .card {
         flex-basis: 27.5%;
