@@ -295,7 +295,7 @@ nav a:hover {
         justify-content: center;
         padding-top: .25rem;
         margin-top: .25rem;
-        width: 200%;
+        width: 100%;
     }
     .separator {
         display: inline-block;
