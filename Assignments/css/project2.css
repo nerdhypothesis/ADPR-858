@@ -297,7 +297,7 @@ nav a:hover {
     }
     .separator {
         display: inline-block;
-        border: none;
+        border-right: 1px solid #dfe3eb;
         padding: 1rem;
     }
 
