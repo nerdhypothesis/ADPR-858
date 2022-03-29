@@ -270,7 +270,7 @@ nav a:hover {
     .work-section6 {
         display: flex;
         justify-content: center;
-        flex-flow: column;   
+        flex-direction: column;   
         text-indent: 2rem;   
         text-size-adjust: 2rem;  
         font-size: 1rem;
