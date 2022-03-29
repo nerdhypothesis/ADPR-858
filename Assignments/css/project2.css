@@ -277,8 +277,8 @@ nav a:hover {
         flex-basis: 100%;
         text-align: center;  
         justify-content: center;
-        padding: 1rem;
-        margin: 1rem;
+        padding-top: 1rem;
+        margin-top: 1rem;
     }
     .separator {
         display: inline-block;
