@@ -297,8 +297,8 @@ nav a:hover {
     }
     .separator {
         display: inline-block;
-        border: 1px solid #dfe3eb;
-        padding-left: 1rem;
+        border: none;
+        padding: 1rem;
     }
 
 }
