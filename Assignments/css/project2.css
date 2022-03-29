@@ -289,7 +289,7 @@ nav a:hover {
     }
     .work-section7 {
         display: flex;
-        display: inline-flex;
+        flex-direction: row;
         text-align: center;  
         justify-content: left;
         padding-top: .25rem;
