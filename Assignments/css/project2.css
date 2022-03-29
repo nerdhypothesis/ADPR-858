@@ -269,9 +269,13 @@ nav a:hover {
     }
     .work-section6 {
         display: flex;
-        justify-content: center;
         flex-direction: column; 
+        width: 50%;
         text-align: center;  
     }
+    .separator {
+        display: inline-block;
+        border-left: 1px solid #dfe3eb;
+      }
 
 }
