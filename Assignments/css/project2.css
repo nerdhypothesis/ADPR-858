@@ -267,6 +267,13 @@ nav a:hover {
         justify-content: center;
         background-color: #F5F8FA;
     }
+    .work-section6 {
+        display: flex;
+        justify-content: center;
+        flex-flow: column wrap;   
+        text-indent: 2rem;   
+        text-size-adjust: 2rem;  
+        font-size: .75rem;
 
 }
     
