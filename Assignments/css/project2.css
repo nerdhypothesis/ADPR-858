@@ -273,6 +273,7 @@ nav a:hover {
         flex-flow: column;   
         text-indent: 2rem;   
         text-size-adjust: 2rem;  
-        font-size: 1.75rem;
+        font-size: 1rem;
+        grid-column: span 6
 
 }
