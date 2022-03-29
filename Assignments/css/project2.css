@@ -176,6 +176,14 @@ nav a:hover {
     background-color: white;
     flex-basis: 27.5%;
 }
+.card1 {
+    text-align: center;
+    margin: 1rem;
+    padding-bottom: 2rem;
+    box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
+    background-color: white;
+    flex-basis: 40%;
+}
 .card-title {
     margin: 0.75rem 0 0 0;
     padding: 0 2rem 0.5rem;
