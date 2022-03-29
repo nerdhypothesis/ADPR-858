@@ -273,7 +273,8 @@ nav a:hover {
         flex-basis: 100%;
         text-align: center;  
         justify-content: center;
-        padding: auto;
+        padding: 1rem;
+        margin: 1rem;
     }
     .separator {
         display: inline-block;
