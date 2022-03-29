@@ -287,6 +287,15 @@ nav a:hover {
         margin-top: .25rem;
         width: 100%;
     }
+    .work-section7 {
+        display: flex;
+        display: inline-flex;
+        text-align: center;  
+        justify-content: left;
+        padding-top: .25rem;
+        margin-top: .25rem;
+        width: 100%;
+    }
     .separator {
         display: inline-block;
         border-left: 1px solid #dfe3eb;
