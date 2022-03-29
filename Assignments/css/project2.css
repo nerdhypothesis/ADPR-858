@@ -281,11 +281,12 @@ nav a:hover {
     }
     .work-section6 {
         display: flex;
+        flex-flow: wrap;
         text-align: center;  
         justify-content: left;
         padding-top: .25rem;
         margin-top: .25rem;
-        width: 50%;
+        width: 100%;
     }
     .separator {
         display: inline-block;
