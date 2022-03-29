@@ -270,10 +270,8 @@ nav a:hover {
     .work-section6 {
         display: flex;
         justify-content: center;
-        flex-direction: column;   
-        text-indent: 2rem;   
-        text-size-adjust: 2rem;  
-        font-size: 1rem;
-        grid-column: span 6
+        flex-direction: column; 
+        text-align: center;  
+    }
 
 }
