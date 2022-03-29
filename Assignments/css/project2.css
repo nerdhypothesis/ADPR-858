@@ -237,6 +237,7 @@ nav a:hover {
         justify-content: center;
         flex-flow: row wrap;
         background-color: #F5F8FA;
+        width: min(100%, 90rem);
     }
     .work-section2 {
         display: flex;
