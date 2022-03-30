@@ -156,7 +156,7 @@ nav a:hover {
     transition: background-color 0.5s ease;
 }
 .button:hover {
-    background-color: #F8F3F2;
+    background-color: #cc9387;
 }
 .button1:link, .button1:visited {
     color: white;
@@ -169,7 +169,7 @@ nav a:hover {
     transition: background-color 0.5s ease;
 }
 .button1:hover {
-    background-color: #F8F3F2;
+    background-color: #cc9387;
 }
 .navbutton {
     grid-column: span 3;
