@@ -78,6 +78,7 @@ a:hover {
     background-color: #2D3E50;
     color: white;
     padding: 1rem;
+    width: 100% 75rem;
 }
 .col-span-8a {
     grid-column: span 8;
