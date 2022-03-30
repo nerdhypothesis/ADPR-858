@@ -283,8 +283,8 @@ nav a:hover {
         flex-direction: row;
         text-align: center;  
         justify-content: center;
-        padding-top: .25rem;
-        margin-top: .25rem;
+        padding: .25rem;
+        margin: .25rem;
         width: 100%;
     }
     .work-section7 {
