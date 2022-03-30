@@ -40,6 +40,9 @@ a:hover {
     color: #4332da;
     text-decoration: underline;
 }
+hr {
+    justify-content: center;
+}
 /******* Layout *******/
 .container {
     background-color: white;
