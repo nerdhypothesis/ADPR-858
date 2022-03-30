@@ -178,7 +178,7 @@ nav a:hover {
 .card1 {
     text-align: center;
     margin: 1rem;
-    padding-bottom: 2rem;
+    padding: 2rem;
     box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
     background-color: white;
     flex-basis: 40%;
