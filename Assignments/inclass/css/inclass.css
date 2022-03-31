@@ -106,6 +106,8 @@ nav li a:hover {
         grid-column: 1 /span 6;
         
     }
+
+.site-id flex: ;
     .menu {
         grid-column: 7 /span 6;
         
