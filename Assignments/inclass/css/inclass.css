@@ -35,6 +35,31 @@ p, ul, ol {
 img {
     max-width: 100%;
 }
+nav.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+
+}
+nav li {
+    flex-grow: 1;
+}
+
+nav li a {
+    color: var(--neutral-grey);
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 2rem 1rem;
+    transition: background-color .2s ease-in-out;
+}
+nav li a:hover {
+    color: var(--neutral-light);
+    background-color: var(--highlight-color);
+}
 
 /******** Layout ********/
 .container {
