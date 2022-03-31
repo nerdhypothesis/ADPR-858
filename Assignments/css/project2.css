@@ -214,6 +214,75 @@ nav a:hover {
     width: 1.5rem;
     height: 1.5rem;
 }
+.work-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-flow: row wrap;
+    background-color: #F5F8FA;
+    width: min(100%, 90rem);
+}
+.work-section2 {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;   
+    text-indent: 2rem;   
+    text-size-adjust: 5rem;  
+}
+.work-section3 {
+    display: flex;
+    justify-content: left;
+    flex-flow: row wrap;   
+    text-indent: 2rem;   
+    text-size-adjust: 2rem;  
+    font-size: .75rem;
+}
+.work-section4 {
+    display: flex;
+    justify-content: flex-end;
+    flex-flow: row wrap;   
+    text-indent: 2.5rem;   
+    text-size-adjust: 2.5rem;  
+    font-size: .75rem;
+    color: grey;
+}
+.work-section5 {
+    display: flex;
+    justify-content: center;
+    background-color: #F5F8FA;
+}
+.work-section5a {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+.work-section5b {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+.work-section6 {
+    display: flex;
+    flex-direction: row;
+    text-align: center;  
+    justify-content: center;
+}
+.work-section7 {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    text-align: center;  
+    justify-content: center;
+    width: 100%;
+    padding-top: .25rem;
+    margin-top: .25rem;
+}
+.separator {
+    border-right: 1px solid #dfe3eb;
+    padding: 4rem;
+}
 
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
@@ -234,75 +303,6 @@ nav a:hover {
     }
     .col-span-2 {
         grid-column: span 2;
-    }
-    .work-section {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        flex-flow: row wrap;
-        background-color: #F5F8FA;
-        width: min(100%, 90rem);
-    }
-    .work-section2 {
-        display: flex;
-        justify-content: center;
-        flex-flow: row wrap;   
-        text-indent: 2rem;   
-        text-size-adjust: 5rem;  
-    }
-    .work-section3 {
-        display: flex;
-        justify-content: left;
-        flex-flow: row wrap;   
-        text-indent: 2rem;   
-        text-size-adjust: 2rem;  
-        font-size: .75rem;
-    }
-    .work-section4 {
-        display: flex;
-        justify-content: flex-end;
-        flex-flow: row wrap;   
-        text-indent: 2.5rem;   
-        text-size-adjust: 2.5rem;  
-        font-size: .75rem;
-        color: grey;
-    }
-    .work-section5 {
-        display: flex;
-        justify-content: center;
-        background-color: #F5F8FA;
-    }
-    .work-section5a {
-        display: flex;
-        justify-content: center;
-        padding-bottom: 1rem;
-        margin-bottom: 1rem;
-    }
-    .work-section5b {
-        display: flex;
-        justify-content: center;
-        padding-bottom: 1rem;
-        margin-bottom: 1rem;
-    }
-    .work-section6 {
-        display: flex;
-        flex-direction: row;
-        text-align: center;  
-        justify-content: center;
-    }
-    .work-section7 {
-        display: flex;
-        flex-direction: row;
-        flex-flow: wrap;
-        text-align: center;  
-        justify-content: center;
-        width: 100%;
-        padding-top: .25rem;
-        margin-top: .25rem;
-    }
-    .separator {
-        border-right: 1px solid #dfe3eb;
-        padding: 4rem;
     }
 
 }
