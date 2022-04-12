@@ -1,3 +1,10 @@
+:root {
+    --primary-color: #FFFAFA;
+    --secondary-color: #002A75;
+    --dark-grey: #424242;
+    --highlight-color: #FFD100; 
+}
+
 *{
     box box-sizing: border-box;
 }
@@ -7,7 +14,7 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 header {
-    background-color: #002A75;
-    color: #FFD100;
+    background-color: var(--secondary-color);
+    color: var(--highlight-color);
     padding: 2rem;
 }
