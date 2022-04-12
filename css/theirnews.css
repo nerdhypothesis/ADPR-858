@@ -66,3 +66,10 @@ nav li {
     margin: 0 .25rem .25rem 0;
 
 }
+/******* Desktop Layout *******/
+@media screen and (min-width: 40rem) {
+    .col-span-4 {
+        grid-column: span 8;
+    }
+
+}    
