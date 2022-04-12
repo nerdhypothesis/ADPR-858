@@ -19,3 +19,13 @@ header {
     padding: 2rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+nav {
+    background-color: var(--highlight-color);
+    padding: 0 1rem;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    color: var(--secondary-color);
+
+}
