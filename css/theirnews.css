@@ -35,6 +35,9 @@ nav ul {
     display: flex;
     flex-flow: row wrap;
 }
+nav li {
+    margin: 0 0.5rem;
+}
 /******* Components *******/
 .button:link, .button:visited {
     color: var(--secondary-color);
