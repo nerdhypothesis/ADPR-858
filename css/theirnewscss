@@ -5,3 +5,7 @@ body {
     margin: 0;
     background-color: #FFFAFA;
 }
+header {
+    background-color: #002A75;
+    color: #FFD100;
+    padding: 2rem;
