@@ -108,15 +108,15 @@ nav li {
 .cardimage {
     display: inline-block;
     margin-left: .5rem;
-    width: 50rem;
-    height: 25rem;
+    width: 40rem;
+    height: 20rem;
 
 }
 .cardimage1 {
     display: inline-block;
     margin-left: .5rem;
-    width: 30rem;
-    height: 15rem;
+    width: 20rem;
+    height: 10rem;
 
 }
 .work-section {
