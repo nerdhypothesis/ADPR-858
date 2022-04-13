@@ -97,6 +97,19 @@ nav li {
         background-color: white;
         flex-basis: 27.5%;
 }
+.card-title {
+    margin: 0.75rem 0 0 0;
+    padding: 0 2rem 0.5rem;
+}
+.card-text {
+    margin: 0.5rem 0 1rem 0;
+    padding: 0 2rem 0.5rem;
+}
+.cardimage {
+    display: inline-block;
+    margin-left: .5rem;
+    width: 1.5rem;
+    height: 1.5rem;
 
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
