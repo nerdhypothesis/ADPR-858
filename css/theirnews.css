@@ -55,6 +55,7 @@ header {
     width: min(95%, 75rem);
     color: var(--primary-color);
     text-align: left;
+    padding: .5rem;
 }
 .container3 > * {
     grid-column: span 12;
