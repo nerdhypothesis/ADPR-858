@@ -114,9 +114,9 @@ nav li {
 }
 .cardimage1 {
     display: inline-block;
-    margin-left: .5rem;
-    width: 10rem;
-    height: 7rem;
+    margin-left: 0 .5rem 0 0;
+    width: 12rem;
+    height: 9rem;
 
 }
 .work-section {
