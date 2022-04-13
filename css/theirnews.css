@@ -40,6 +40,8 @@ header {
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
     width: min(95%, 75rem);
+    text-align: center;
+    justify-content: center;
 }
 .container2 > * {
     grid-column: span 12;
@@ -51,6 +53,8 @@ header {
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
     width: min(95%, 75rem);
+    color: var(--primary-color);
+    text-align: left;
 }
 .container3 > * {
     grid-column: span 12;
