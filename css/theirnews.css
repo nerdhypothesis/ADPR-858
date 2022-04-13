@@ -141,7 +141,14 @@ nav li {
 
 .flex-child:first-child {
     margin-right: 20px;
+}
+.flex-child-child {
+    flex: 1;
+    border: 2px 
 } 
+.flex-child-child:first-child {
+    margin-right: 20px;
+}
 
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
