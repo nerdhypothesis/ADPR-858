@@ -37,7 +37,6 @@ header {
     background-color: #FFD100;
     display: grid;
     gap: 1.5rem;
-    grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
     width: min(95%, 75rem);
     text-align: center;
@@ -190,6 +189,7 @@ nav li {
     }
     .col-span-4 {
         grid-column: span 4;
+        
     }
 
 }    
