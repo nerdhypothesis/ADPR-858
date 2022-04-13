@@ -55,7 +55,7 @@ header {
     width: min(95%, 75rem);
     color: var(--primary-color);
     text-align: left;
-    padding: .5rem;
+    padding: .25rem;
 }
 .container3 > * {
     grid-column: span 12;
@@ -184,6 +184,12 @@ nav li {
     }
     .col-span-3 {
         grid-column: span 3;
+    }
+    .col-span-8 {
+        grid-column: span 8;
+    }
+    .col-span-4 {
+        grid-column: span 4;
     }
 
 }    
