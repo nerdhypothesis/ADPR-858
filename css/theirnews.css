@@ -108,6 +108,7 @@ nav li {
 .cardimage {
     display: inline-block;
     margin-left: .5rem;
+    
 }
 .work-section {
     display: flex;
