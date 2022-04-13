@@ -31,13 +31,14 @@ nav {
 nav ul {
     margin: 0;
     padding: .5rem;
-    list-style: none;
+    list-style: left;
     display: flex;
     flex-flow: row wrap;
 }
 nav li {
     margin: 0 .5rem;
     float: left;
+    list-style: none;
 }
 
 /******* Components *******/
