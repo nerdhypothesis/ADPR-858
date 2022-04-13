@@ -108,6 +108,8 @@ nav li {
 .cardimage {
     display: inline-block;
     margin-left: .5rem;
+    width: 15rem;
+    height: 10rem;
 
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
