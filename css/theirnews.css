@@ -41,6 +41,7 @@ header {
     width: min(95%, 75rem);
     text-align: center;
     justify-content: center;
+    padding: .5rem;
 }
 .container2 > * {
     grid-column: span 12;
@@ -54,7 +55,7 @@ header {
     width: min(95%, 75rem);
     color: var(--primary-color);
     text-align: left;
-    padding: .25rem;
+    padding: .5rem;
 }
 .container3 > * {
     grid-column: span 12;
