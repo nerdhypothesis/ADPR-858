@@ -130,6 +130,18 @@ nav li {
     margin: 1rem;
     padding-bottom: 2rem;
     flex-basis: 27.5%;
+}
+.flex-container {
+        display: flex;
+}
+.flex-child {
+    flex: 1;
+    border: 2px 
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
 
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
