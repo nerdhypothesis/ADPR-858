@@ -36,7 +36,7 @@ header {
 /********** Navigation Using Flexbox **********/
 nav {
     background-color: var(--highlight-color);
-    padding: .5rem 1rem;
+    padding: 0 1rem;
     display: flex;
     position: sticky;
     top: 0;
@@ -53,6 +53,10 @@ nav li {
     margin: 0 .5rem;
     float: left;
     list-style: none;
+}
+}
+.list2 {
+    float: right;
 }
 
 /******* Components *******/
@@ -85,10 +89,6 @@ nav li {
     width: 15rem;
     float: right;
 
-}
-.list2 {
-    float: right;
-}
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
     .col-span-6 {
