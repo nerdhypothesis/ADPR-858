@@ -20,6 +20,14 @@ header {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+p {
+    margin-bottom: 1.5rem
+}
+img {
+    width: 100%;
+    height: auto;
+}
+
 /******* Layout *******/
 
 .container {
@@ -61,10 +69,7 @@ header {
 .container3 > * {
     grid-column: span 12;
 }
-.img {
-    width: 100%;
-    height: auto;
-}
+
 /********** Navigation Using Flexbox **********/
 nav {
     background-color: var(--highlight-color);
