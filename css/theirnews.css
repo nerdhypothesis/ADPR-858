@@ -179,6 +179,11 @@ nav li {
 .flex-child1:first-child {
     margin-right: 20px;
 }
+.flex-child2 {
+    background-color: var(--highlight-color);
+    padding: .5rem;
+    color: var(--dark-grey);
+}
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
     .col-span-6 {
