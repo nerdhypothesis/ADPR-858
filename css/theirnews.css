@@ -197,10 +197,8 @@ nav li {
 
 }
 .bottom-menu {
-    margin: .5rem;
-    float: left;
     list-style: none;
-    margin: 0;
+    margin: 0 1.5rem;
     padding: .5rem;
     display: flex;
     flex-flow: row wrap;
