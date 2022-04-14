@@ -152,6 +152,10 @@ nav li {
     width: 15rem;
     float: right;
 }
+.footer {
+    margin: 0 .5rem;
+    float: left;
+    list-style: none;
 
 .card {
         text-align: left;
