@@ -202,6 +202,7 @@ nav li {
     padding: 1.25rem;
     justify-content: center;
     text-align: center;
+    display: inline;
 }
 .social {
     justify-content: center;
