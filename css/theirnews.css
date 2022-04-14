@@ -223,5 +223,10 @@ nav li {
         grid-column: span 9;
         
     }
-
+    .col-span-12 {
+        grid-column: span 12;
+        background-color: var(--highlight-color);
+        color: var(--primary-color);
+        padding: 1.5rem;
+    }
 }    
