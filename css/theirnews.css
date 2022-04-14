@@ -207,8 +207,6 @@ nav li {
 }
 .social {
     justify-content: center;
-    display: flex;
-    flex-flow: row wrap;
     margin: 0 1.5rem 0 1.5rem;
     padding: .25rem;
     float: left;
@@ -281,13 +279,5 @@ nav li {
     .col-span-9 {
         grid-column: span 9;
         
-    }
-    .col-span-12 {
-        grid-column: span 12;
-        background-color: var(--highlight-color);
-        color: var(--secondary-color);
-        padding: .5rem;
-        text-align: center;
-        justify-content: center;
     }
 }    
