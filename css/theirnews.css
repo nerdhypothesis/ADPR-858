@@ -196,7 +196,7 @@ nav li {
 }
 .social {
     justify-content: center;
-    grid-column: 12;
+    grid-column: span 12;
     display: flex;
     flex-flow: row wrap;
 }
