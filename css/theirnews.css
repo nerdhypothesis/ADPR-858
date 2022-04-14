@@ -197,6 +197,8 @@ nav li {
 .social {
     justify-content: center;
     grid-column: 12;
+    display: flex;
+    flex-flow: row wrap;
 }
 .fa {
     padding: 10px;
