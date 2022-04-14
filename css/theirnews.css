@@ -39,6 +39,18 @@ p {
 .container > * {
     grid-column: span 12;
 }
+.containera {
+    background-color: #FFFAFA;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(12, 1fr);
+    margin: 0 auto;
+    width: min(95%, 75rem);
+    padding: .5rem;
+}
+.containera > * {
+    grid-column: span 12;
+}
 .container2 {
     background-color: #FFD100;
     display: grid;
