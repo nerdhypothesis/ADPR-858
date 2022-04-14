@@ -199,5 +199,9 @@ nav li {
         grid-column: span 4;
         
     }
+    .col-span-9 {
+        grid-column: span 9;
+        
+    }
 
 }    
