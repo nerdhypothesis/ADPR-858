@@ -227,6 +227,8 @@ nav li {
         grid-column: span 12;
         background-color: var(--highlight-color);
         color: var(--secondary-color);
-        padding: 1.5rem;
+        padding: .5rem;
+        text-align: center;
+        justify-content: center;
     }
 }    
