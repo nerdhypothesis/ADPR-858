@@ -203,7 +203,7 @@ nav li {
     justify-content: center;
     text-align: center;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 .social {
     justify-content: center;
