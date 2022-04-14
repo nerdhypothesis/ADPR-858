@@ -206,6 +206,7 @@ nav li {
     }
     .col-span-8 {
         grid-column: span 8;
+        padding-right: 1.5rem;
     }
     .col-span-4 {
         grid-column: span 4;
