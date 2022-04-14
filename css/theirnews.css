@@ -189,7 +189,6 @@ nav li {
     list-style: none;
     margin: 0;
     padding: .5rem;
-    list-style: left;
     display: flex;
     flex-flow: row wrap;
 }
