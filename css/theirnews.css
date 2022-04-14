@@ -212,7 +212,12 @@ nav li {
     grid-column: span 12;
     display: flex;
     flex-flow: row wrap;
+    margin: 0 1.5rem;
+    padding: .5rem;
+    float: left;
+    list-style: none;
 }
+
 .fa {
     padding: 10px;
     font-size: 10px;
