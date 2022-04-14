@@ -73,6 +73,7 @@ p {
     color: var(--primary-color);
     text-align: left;
     padding: .5rem 0 .5rem 0;
+    margin-left: 1.5rem;
 }
 .container3 > * {
     grid-column: span 12;
