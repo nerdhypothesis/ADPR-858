@@ -86,7 +86,6 @@ p {
     width: min(95%, 75rem);
     color: var(--primary-color);
     text-align: center;
-    padding: 1.5rem 0 1.5rem 0;
 }
 .container3a > * {
     grid-column: span 12;
