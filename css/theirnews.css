@@ -183,10 +183,7 @@ nav li {
     height: auto;
 
 }
-.bottomnav {
-    margin: 0 .5rem;
-    float: left;
-    list-style: none;
+
 
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
