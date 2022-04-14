@@ -199,8 +199,8 @@ nav li {
 
 .social {
     justify-content: center;
-    margin: 0 1.5rem 0 1.5rem;
-    padding: 1.25rem;
+    margin: 0 .5rem 0 .5rem;
+    padding: .5rem;
     float: left;
     list-style: none;
 }
