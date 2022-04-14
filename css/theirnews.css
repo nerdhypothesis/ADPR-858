@@ -67,6 +67,20 @@ p {
 .container3 > * {
     grid-column: span 12;
 }
+.container4 {
+    background-color: var(--primary-color);
+    display: grid;
+    gap: 1.5rem;
+    margin: 0 auto;
+    width: min(95%, 75rem);
+    text-align: center;
+    justify-content: center;
+    padding: .5rem 1.5rem .5rem 1.5rem;
+
+}
+.container4 > * {
+    grid-column: span 12;
+}
 .img {
     width: 100%;
     height: auto;
