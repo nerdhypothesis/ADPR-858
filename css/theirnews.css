@@ -226,7 +226,7 @@ nav li {
     .col-span-12 {
         grid-column: span 12;
         background-color: var(--highlight-color);
-        color: var(--primary-color);
+        color: var(--secondary-color);
         padding: 1.5rem;
     }
 }    
