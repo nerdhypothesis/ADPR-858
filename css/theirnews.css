@@ -211,7 +211,7 @@ nav li {
         grid-column: span 4;
         background-color: var(--secondary-color);
         color: var(--primary-color);
-        padding: auto;
+        padding: .5rem;
         
     }
     .col-span-9 {
