@@ -203,7 +203,7 @@ nav li {
     padding: 1.5rem;
     float: left;
     list-style: none;
-    grid-column: span 9;
+    grid-column: span 3;
 }
 
 .fa {
