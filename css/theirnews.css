@@ -194,6 +194,10 @@ nav li {
     justify-content: center;
     text-align: center;
 }
+.social {
+    justify-content: center;
+    grid-column: 12;
+}
 .fa {
     padding: 10px;
     font-size: 10px;
