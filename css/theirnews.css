@@ -244,7 +244,8 @@ nav li {
   }
   /* Reddit */
   .fa-envelope {
-    color: white;
+    color: #55ACEE;
+    background: white;
   }
 
 /******* Desktop Layout *******/
