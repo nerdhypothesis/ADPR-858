@@ -108,7 +108,7 @@ nav {
 nav ul {
     margin: 0;
     padding: .5rem;
-    list-style: left;
+    list-style: none;
     display: flex;
     flex-flow: row wrap;
 }
