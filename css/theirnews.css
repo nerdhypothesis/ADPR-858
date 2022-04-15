@@ -16,7 +16,7 @@ body {
 header {
     background-color: var(--secondary-color);
     color: var(--highlight-color);
-    padding: 2rem;
+    padding: 1rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
