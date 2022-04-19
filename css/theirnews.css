@@ -40,6 +40,18 @@ p {
 .container > * {
     grid-column: span 12;
 }
+.container1 {
+    background-color: #FFFAFA;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(12, 1fr);
+    margin: 0 auto;
+    width: min(95%, 75rem);
+    padding: 1.5rem 1.5rem .5rem 1.5rem;
+}
+.container1 > * {
+    grid-column: span 12;
+}
 .containera {
     background-color: #FFFAFA;
     display: grid;
