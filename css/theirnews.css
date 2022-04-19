@@ -110,10 +110,9 @@ p {
     height: auto;
 }
 .img1 {
-    width: 100%;
+    width: 75%;
     height: auto;
     margin: 0 2.5rem 0 2.5rem
-    grid-column: span 9;
 }
 
 /********** Navigation Using Flexbox **********/
