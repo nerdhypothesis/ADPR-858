@@ -126,6 +126,7 @@ p {
     height: auto;
     margin: 0 0 0 .5rem;
     justify-content: center;
+    align-content: center;
 }
 
 /********** Navigation Using Flexbox **********/
