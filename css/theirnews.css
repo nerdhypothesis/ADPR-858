@@ -109,6 +109,12 @@ p {
     width: 100%;
     height: auto;
 }
+.img1 {
+    width: 100%;
+    height: auto;
+    margin: 0 2.5rem 0 2.5rem
+    grid-column: span 9;
+}
 
 /********** Navigation Using Flexbox **********/
 nav {
@@ -195,7 +201,6 @@ nav li {
     margin-left: 0 .5rem 0 0;
     width: 100%;
     height: auto;
-
 }
 
 .social {
