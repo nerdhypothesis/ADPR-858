@@ -112,7 +112,7 @@ p {
 .img1 {
     width: 75%;
     height: auto;
-    margin: 0 2.5rem 0 2.5rem
+    margin: 0 .5rem 0 .5rem
 }
 
 /********** Navigation Using Flexbox **********/
