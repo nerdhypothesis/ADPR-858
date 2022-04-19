@@ -122,7 +122,13 @@ p {
     height: auto;
 }
 .img1 {
-    width: 75%;
+    width: 100%;
+    height: auto;
+    margin: 0 0 0 .5rem;
+    justify-content: center;
+}
+.img1a {
+    width: 50%;
     height: auto;
     margin: 0 0 0 .5rem;
     justify-content: center;
