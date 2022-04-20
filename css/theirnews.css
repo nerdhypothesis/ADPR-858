@@ -226,6 +226,7 @@ nav li {
     margin: 0 .5rem 0 .5rem;
     float: left;
     list-style: none;
+    grid-column: span 3;
 }
 
 .fa {
