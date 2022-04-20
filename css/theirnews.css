@@ -98,7 +98,7 @@ p {
     color: var(--primary-color);
     text-align: center;
     justify-content: center;
-    padding: .5rem 0rem 1.5rem 0rem;
+    padding: .5rem 0rem .5rem 0rem;
 }
 .container3a > * {
     grid-column: span 12;
