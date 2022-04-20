@@ -83,7 +83,6 @@ p {
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
     width: min(95%, 75rem);
-    color:#FFFAFA;
     text-align: left;
     padding: .5rem 0 .5rem 0;
 }
