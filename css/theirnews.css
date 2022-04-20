@@ -285,8 +285,6 @@ nav li {
     }
     .col-span-4 {
         grid-column: span 4;
-        background-color: var(--secondary-color);
-        color: var(--primary-color);
         padding: 1.5rem;
         
     }
