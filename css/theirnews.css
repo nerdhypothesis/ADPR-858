@@ -90,10 +90,9 @@ p {
     grid-column: span 12;
 }
 .container3a {
-    background-color: #002A75;
+    background-color: var(--secondary-color);
     display: grid;
     gap: 1.5rem;
-    grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
     width: min(95%, 75rem);
     color: var(--primary-color);
