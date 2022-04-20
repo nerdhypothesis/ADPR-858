@@ -98,7 +98,7 @@ p {
     color: var(--primary-color);
     text-align: center;
     justify-content: center;
-    padding: .5rem 0rem .5rem 0rem;
+    padding: .5rem 0rem 1.5rem 0rem;
 }
 .container3a > * {
     grid-column: span 12;
@@ -285,8 +285,16 @@ nav li {
     }
     .col-span-4 {
         grid-column: span 4;
-        padding: 1.5rem;
-        
+        background-color: var(--secondary-color);
+        color: var(--primary-color);
+        padding: 1.5rem; 
+    }
+
+    .col-span-4b {
+        grid-column: span 4;
+        background-color: var(--secondary-color);
+        color: var(--primary-color);
+        padding: 1.5rem; 
     }
     .col-span-4a {
         grid-column: span 4;
