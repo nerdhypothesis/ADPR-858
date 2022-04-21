@@ -58,6 +58,7 @@ p {
     margin: 0 auto;
     width: min(95%, 75rem);
     color: var(--highlight-color);
+    justify-content: center;
 }
 .containera > * {
     grid-column: span 12;
