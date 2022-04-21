@@ -269,7 +269,7 @@ nav li {
 
 .social {
     justify-content: center;
-    display:grid;
+    display:block;
     margin: 0 .5rem 0 .5rem;
     list-style: none;
 }
