@@ -89,6 +89,7 @@ p {
     padding: .5rem 0rem .5rem 0rem;
     justify-content: center;
     align-items: center;
+    list-style: none;
 
 }
 .container2a > * {
