@@ -80,7 +80,7 @@ p {
     gap: 1.5rem;
     margin: 0 auto;
     width: min(95%, 75rem);
-    padding: .5rem;
+    padding: .25rem;
     justify-content: center;
 
 }
