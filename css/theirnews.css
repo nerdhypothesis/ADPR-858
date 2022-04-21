@@ -138,13 +138,13 @@ p {
 .img1 {
     width: 90%;
     height: auto;
-    margin: 0 0 0 1rem;
+    margin: 0 0 0 1.25rem;
     justify-content: center;
 }
 .img1a {
     width: 50%;
     height: auto;
-    margin: 0 0 0 1rem;
+    margin: 0 0 0 1.25rem;
     justify-content: center;
 }
 
