@@ -47,7 +47,6 @@ p {
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
     width: min(90%, 75rem);
-    padding: .5rem 0rem .5rem 0rem;
     color: var(--primary-color);
 }
 .container1 > * {
