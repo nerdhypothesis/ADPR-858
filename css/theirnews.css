@@ -270,7 +270,6 @@ nav li {
 .social {
     justify-content: center;
     align-items: center;
-    display: inline-block;
     margin: 0 .5rem 0 .5rem;
     list-style: none;
 }
