@@ -14,7 +14,7 @@
 body {
     margin: 0;
     background-color: #FFFAFA;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 header {
     background-color: var(--secondary-color);
