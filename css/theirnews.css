@@ -41,12 +41,11 @@ p {
     grid-column: span 12;
 }
 .container1 {
-    background-color:var(--secondary-color);
+    background-color: var(--secondary-color);
     display: grid;
-    gap: 1.5rem;
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
-    width: min(90%, 75rem);
+    width: min(95%, 75rem);
     color: var(--primary-color);
 }
 .container1 > * {
