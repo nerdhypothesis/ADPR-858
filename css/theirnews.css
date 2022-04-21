@@ -90,8 +90,6 @@ p {
     padding: .5rem 0rem .5rem 0rem;
     justify-content: center;
     align-items: center;
-    list-style: none;
-
 }
 .container2a > * {
     grid-column: span 12;
@@ -272,7 +270,7 @@ nav li {
 .social {
     justify-content: center;
     margin: 0 .5rem 0 .5rem;
-    float: left;
+    float: center;
     list-style: none;
 }
 
