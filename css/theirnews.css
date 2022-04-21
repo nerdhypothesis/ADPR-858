@@ -166,6 +166,7 @@ p {
     background-color: #04AA6D;
     color: white;
     border: none;
+    grid-column: 4;
 }
 .input[type=submit]:hover {
     opacity: 0.8;
