@@ -192,6 +192,22 @@ nav li {
 .button:hover {
     background-color: #2f61b8;
 }
+.button1:link, .button1:visited {
+    color: var(--highlight-color);
+    background-color: var(--secondary-color);
+    text-align: center;
+    text-decoration: none;
+    padding: 1rem 1.75rem;
+    border-radius: 1.5rem;
+    box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
+    display: inline-block;
+    margin: 0 .5rem .25rem 0;
+    transition: background-color 0.5s ease;
+    float: right;
+}
+.button1:hover {
+    background-color: #2f61b8;
+}
 .searchbar {
     background-color: white;
     color: lightgray;
