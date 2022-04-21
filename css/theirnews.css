@@ -14,13 +14,13 @@
 body {
     margin: 0;
     background-color: #FFFAFA;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 header {
     background-color: var(--secondary-color);
     color: var(--highlight-color);
     padding: .5rem 1.5rem .5rem 1.5rem;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 p {
