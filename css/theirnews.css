@@ -51,7 +51,6 @@ p {
     margin: 0 auto;
     width: min(95%, 75rem);
     color: var(--primary-color);
-    padding: 1.5rem;
 }
 .container1 > * {
     grid-column: span 12;
