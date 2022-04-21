@@ -282,6 +282,11 @@ nav li {
         color: var(--primary-color);
         padding: 1.5rem; 
     }
+    .col-span-6a {
+        grid-column: span 6;
+        background-color: var(--highlight-color);
+        padding: 1.5rem; 
+    }
     .col-span-3 {
         grid-column: span 3;
     }
