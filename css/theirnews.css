@@ -270,7 +270,7 @@ nav li {
 .social {
     justify-content: center;
     display: flex;
-    padding: .25rem;
+    flex-direction: row;
     margin: 0 .5rem 0 .5rem;
     list-style: none;
 }
