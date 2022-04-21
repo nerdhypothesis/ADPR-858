@@ -53,7 +53,7 @@ p {
     grid-column: span 12;
 }
 .containera {
-    background-color: #FFFAFA;
+    background-color: var(--secondary-color);
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
