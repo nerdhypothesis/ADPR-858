@@ -159,9 +159,6 @@ p {
     border: 1px solid #ccc;
     box-sizing: border-box;
 }
-.input[type=checkbox] {
-    margin-top: 16px;
-}
 .input[type=submit] {
     background-color: #04AA6D;
     color: white;
