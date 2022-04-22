@@ -49,10 +49,10 @@ p {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     margin-left: 0 .5rem 0 0;
-    width: min(100%, 75rem);
+    width: min(90%, 75rem);
     height: auto;
     color: var(--primary-color);
-    padding: .5rem;
+    padding: 1rem;
 
 }
 .container1 > * {
