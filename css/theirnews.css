@@ -48,9 +48,12 @@ p {
     background-color: var(--secondary-color);
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    margin: 0 auto;
-    width: min(95%, 75rem);
+    margin-left: 0 .5rem 0 0;
+    width: min(100%, 75rem);
+    height: auto;
     color: var(--primary-color);
+    padding: .5rem;
+
 }
 .container1 > * {
     grid-column: span 12;
