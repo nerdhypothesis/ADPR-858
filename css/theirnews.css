@@ -289,6 +289,12 @@ nav li {
     width: 100%;
     height: auto;
 }
+.cardimage1 {
+    display: inline-block;
+    margin-left: 0 .5rem 0 0;
+    width: 80%;
+    height: auto;
+}
 
 .social {
     justify-content: center;
