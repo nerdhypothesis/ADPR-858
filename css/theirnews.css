@@ -201,7 +201,7 @@ nav ul {
     list-style: left;
     display: flex;
     flex-flow: row wrap;
-    background-color: grey;
+    
 }
 nav li {
     margin: 0 .5rem;
