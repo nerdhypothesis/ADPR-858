@@ -45,12 +45,10 @@ p {
     grid-column: span 12;
 }
 .container1 {
-    background-color: var(--secondary-color);
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
     width: min(95%, 75rem);
-    color: var(--primary-color);
 }
 .container1 > * {
     grid-column: span 12;
