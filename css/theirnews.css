@@ -192,7 +192,7 @@ nav {
     display: flex;
     position: sticky;
     top: 0;
-    color: var(--secondary-color);
+    color: black;
     z-index: 5;
 }
 nav ul {
