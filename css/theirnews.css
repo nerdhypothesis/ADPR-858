@@ -17,8 +17,8 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 header {
-    background-color: var(--secondary-color);
-    color: var(--highlight-color);
+    background-color: black;
+    color: whitesmoke;
     padding: .5rem 1.5rem .5rem 1.5rem;
     font-family: 'Raleway', sans-serif;
 }
