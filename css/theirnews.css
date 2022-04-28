@@ -112,7 +112,7 @@ p {
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
     width: min(95%, 75rem);
-    color: whitesmoke;
+    color: black;
     text-align: center;
     justify-content: center;
     padding: .5rem 0rem .5rem 0rem;
@@ -215,7 +215,7 @@ nav li {
 /******* Components *******/
 .button:link, .button:visited {
     color: whitesmoke;
-    background-color: darkgray;
+    background-color: var(--dark-grey);
     text-align: center;
     text-decoration: none;
     padding: 1rem 1.75rem;
@@ -231,7 +231,7 @@ nav li {
 }
 .button1:link, .button1:visited {
     color: whitesmoke;
-    background-color: darkgray;
+    background-color: var(--dark-grey);
     text-align: center;
     text-decoration: none;
     padding: .5rem 1rem;
