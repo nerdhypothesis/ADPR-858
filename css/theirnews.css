@@ -68,7 +68,7 @@ p {
     grid-column: span 12;
 }
 .container2 {
-    background-color: #FFD100;
+    background-color: grey;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     gap: 1.5rem;
@@ -194,9 +194,6 @@ nav {
     top: 0;
     color: black;
     z-index: 5;
-}
-.bgcolor {
-    background-color: grey;
 }
 nav ul {
     margin: 0;
