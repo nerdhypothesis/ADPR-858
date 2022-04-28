@@ -56,7 +56,6 @@ p {
     grid-column: span 12;
 }
 .containera {
-    background-color: var(--secondary-color);
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
@@ -107,13 +106,13 @@ p {
     grid-column: span 12;
 }
 .container3a {
-    background-color: var(--secondary-color);
+    background-color: lightgrey;
     display: grid;
     gap: 1.5rem;
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
     width: min(95%, 75rem);
-    color: var(--primary-color);
+    color: whitesmoke;
     text-align: center;
     justify-content: center;
     padding: .5rem 0rem .5rem 0rem;
@@ -215,8 +214,8 @@ nav li {
 
 /******* Components *******/
 .button:link, .button:visited {
-    color: var(--secondary-color);
-    background-color: var(--highlight-color);
+    color: whitesmoke;
+    background-color: darkgray;
     text-align: center;
     text-decoration: none;
     padding: 1rem 1.75rem;
@@ -231,8 +230,8 @@ nav li {
     background-color: #2f61b8;
 }
 .button1:link, .button1:visited {
-    color: var(--highlight-color);
-    background-color: var(--secondary-color);
+    color: whitesmoke;
+    background-color: darkgray;
     text-align: center;
     text-decoration: none;
     padding: .5rem 1rem;
