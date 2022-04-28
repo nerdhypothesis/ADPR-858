@@ -68,7 +68,7 @@ p {
     grid-column: span 12;
 }
 .container2 {
-    background-color: grey;
+    background-color: lightgrey;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     gap: 1.5rem;
