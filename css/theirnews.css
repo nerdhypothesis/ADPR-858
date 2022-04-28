@@ -195,6 +195,9 @@ nav {
     color: black;
     z-index: 5;
 }
+.bgcolor {
+    background-color: grey;
+}
 nav ul {
     margin: 0;
     padding: .5rem;
