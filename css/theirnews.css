@@ -351,7 +351,6 @@ nav li {
     }
     .col-span-6b {
         grid-column: span 6;
-        background-color: var(--secondary-color);
         color: var(--primary-color);
         padding: 1.5rem; 
     }
